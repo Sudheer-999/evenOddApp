@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+}
+
+.bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  padding: 20px;
+}
+
+.head1 {
+  margin-bottom: 30px;
+  font-size: 45px;
+}
+
+.txt {
+  text-align: center;
+}
+
+.button {
+  height: 30px;
+  width: 130px;
+  border-width: 0px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.head2 {
+  font-size: 24px;
+  color: #334155;
+  margin-bottom: 15px;
+}
